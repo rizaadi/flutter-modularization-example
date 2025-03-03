@@ -1,0 +1,12 @@
+name: flutter_modularization_example
+
+packages:
+  - features/**
+  - core/**
+
+scripts:
+  format:select:
+    run: melos format
+    description: Format all Flutter packages in this project
+    packageFilters:
+      flutter: true
