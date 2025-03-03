@@ -4,7 +4,7 @@ An example of a modularized Flutter app. Check it out on my [blog](https://rizaa
 
 ## Layer
 
-![Layer Screenshot](resources/layer.jpg)
+![Layer Screenshot](resources/layer-ss.png)
 
 ## Screenshot
 
